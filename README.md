@@ -13,7 +13,7 @@
  
  <h1>Installation Guide</h1>
  <h2>Clone the Repository</h2>
- git clone https://github.com/yourusername/news-aggregator.git
+ git clone https://github.com/shoaibbrosol/news-aggregator.git
  
  cd news-aggregator
  
